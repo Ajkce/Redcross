@@ -1,0 +1,17 @@
+@use 'custom';
+@use './global';
+@use './components/animations';
+@use './components/butttons';
+@use './components/mixins';
+@use './components/typography';
+@use './sections/navbar';
+@use './sections/intro-section';
+@use './sections/services';
+@use './sections/testimonials';
+@use './sections/portfolio';
+@use './sections/faq';
+@use './sections/get-started';
+@use './sections/footer';
+@use './sections/info';
+@use './sections/signup';
+/*# sourceMappingURL=style.css.map */
